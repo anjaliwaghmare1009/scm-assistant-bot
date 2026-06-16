@@ -1,0 +1,3708 @@
+
+Supplier_ID: SUP-001
+Supplier_Name: Orrentek Precision Mfg
+
+Region: APAC
+Country: China
+
+Contract_Tier: Tier-1
+Risk_Level: Low
+
+Compliance_Score_Avg: 86.28
+Sustainability_Score_Avg: 81.22
+
+Average_OTD: 95.68
+Average_Defect_Rate: 0.87
+
+PO_Count: 18
+Total_PO_Value_USD: 939643.31
+
+Units_Ordered_Total: 136466
+Units_Delivered_Total: 131520
+Units_Rejected_Total: 1116
+
+Active_Disruptions:
+Political instability flag, Port congestion risk, Regulatory audit pending, Tariff adjustment pending
+
+Certifications:
+ISO14001, ISO9001, RoHS
+
+
+=============================
+
+
+Supplier_ID: SUP-002
+Supplier_Name: Zhenlong ElectroCo
+
+Region: APAC
+Country: China
+
+Contract_Tier: Tier-2
+Risk_Level: Medium
+
+Compliance_Score_Avg: 77.78
+Sustainability_Score_Avg: 63.78
+
+Average_OTD: 84.92
+Average_Defect_Rate: 1.56
+
+PO_Count: 18
+Total_PO_Value_USD: 3923690.41
+
+Units_Ordered_Total: 653138
+Units_Delivered_Total: 562488
+Units_Rejected_Total: 10578
+
+Active_Disruptions:
+Geopolitical tension flag, Labour strike risk, Port congestion risk, Regulatory audit pending, Seasonal flood risk, Tariff adjustment pending, Typhoon season disruption
+
+Certifications:
+ISO9001, RoHS
+
+
+=============================
+
+
+Supplier_ID: SUP-003
+Supplier_Name: Wanlong Composites Ltd
+
+Region: APAC
+Country: China
+
+Contract_Tier: Tier-2
+Risk_Level: High
+
+Compliance_Score_Avg: 79.72
+Sustainability_Score_Avg: 70.39
+
+Average_OTD: 88.0
+Average_Defect_Rate: 1.79
+
+PO_Count: 18
+Total_PO_Value_USD: 6882034.93
+
+Units_Ordered_Total: 536511
+Units_Delivered_Total: 470803
+Units_Rejected_Total: 9556
+
+Active_Disruptions:
+Audit overdue; compliance review, Currency volatility flag, Port closure risk, Regulatory enforcement pending, Seasonal flood risk, Tariff adjustment pending
+
+Certifications:
+ISO9001
+
+
+=============================
+
+
+Supplier_ID: SUP-004
+Supplier_Name: Yangtze Fiber Materials
+
+Region: APAC
+Country: China
+
+Contract_Tier: Tier-2
+Risk_Level: Medium
+
+Compliance_Score_Avg: 81.11
+Sustainability_Score_Avg: 62.94
+
+Average_OTD: 87.49
+Average_Defect_Rate: 1.62
+
+PO_Count: 18
+Total_PO_Value_USD: 1429755.28
+
+Units_Ordered_Total: 470242
+Units_Delivered_Total: 416060
+Units_Rejected_Total: 6712
+
+Active_Disruptions:
+Audit overdue; compliance review, Currency volatility flag, Geopolitical tension flag, Regulatory audit pending, Regulatory enforcement pending, Seasonal flood risk
+
+Certifications:
+ISO9001, OEKO-TEX
+
+
+=============================
+
+
+Supplier_ID: SUP-005
+Supplier_Name: Huabei Circuit Systems
+
+Region: APAC
+Country: China
+
+Contract_Tier: Tier-1
+Risk_Level: Medium
+
+Compliance_Score_Avg: 90.17
+Sustainability_Score_Avg: 84.22
+
+Average_OTD: 93.69
+Average_Defect_Rate: 0.94
+
+PO_Count: 18
+Total_PO_Value_USD: 908603.8
+
+Units_Ordered_Total: 130131
+Units_Delivered_Total: 122140
+Units_Rejected_Total: 1280
+
+Active_Disruptions:
+Geopolitical tension flag, Regulatory audit pending, Seasonal flood risk, Tariff adjustment pending
+
+Certifications:
+AEC-Q100, ISO9001, RoHS
+
+
+=============================
+
+
+Supplier_ID: SUP-006
+Supplier_Name: Dongfeng Castings Co
+
+Region: APAC
+Country: China
+
+Contract_Tier: Tier-2
+Risk_Level: Low
+
+Compliance_Score_Avg: 76.28
+Sustainability_Score_Avg: 67.17
+
+Average_OTD: 86.62
+Average_Defect_Rate: 1.82
+
+PO_Count: 18
+Total_PO_Value_USD: 2186462.26
+
+Units_Ordered_Total: 405792
+Units_Delivered_Total: 353658
+Units_Rejected_Total: 7250
+
+Active_Disruptions:
+Audit overdue; compliance review, Export license risk, Geopolitical tension flag, Labour strike risk, Port congestion risk, Regulatory enforcement pending
+
+Certifications:
+IATF16949, ISO9001
+
+
+=============================
+
+
+Supplier_ID: SUP-007
+Supplier_Name: Longhua Polymer Works
+
+Region: APAC
+Country: China
+
+Contract_Tier: Tier-3
+Risk_Level: Medium
+
+Compliance_Score_Avg: 61.83
+Sustainability_Score_Avg: 48.94
+
+Average_OTD: 71.24
+Average_Defect_Rate: 2.77
+
+PO_Count: 18
+Total_PO_Value_USD: 7102925.23
+
+Units_Ordered_Total: 661705
+Units_Delivered_Total: 479603
+Units_Rejected_Total: 16823
+
+Active_Disruptions:
+Audit overdue; compliance review, Geopolitical tension flag, Labour strike risk, Political instability flag, Port closure risk, Port congestion risk, Seasonal flood risk, Tariff adjustment pending
+
+Certifications:
+ISO9001
+
+
+=============================
+
+
+Supplier_ID: SUP-008
+Supplier_Name: Shengda Pack Industries
+
+Region: APAC
+Country: China
+
+Contract_Tier: Tier-2
+Risk_Level: High
+
+Compliance_Score_Avg: 76.17
+Sustainability_Score_Avg: 68.28
+
+Average_OTD: 88.21
+Average_Defect_Rate: 1.96
+
+PO_Count: 18
+Total_PO_Value_USD: 884286.3
+
+Units_Ordered_Total: 500947
+Units_Delivered_Total: 434294
+Units_Rejected_Total: 10059
+
+Active_Disruptions:
+Export license risk, Labour strike risk, Port congestion risk, Regulatory audit pending, Regulatory enforcement pending, Seasonal flood risk, Tariff adjustment pending, Typhoon season disruption
+
+Certifications:
+FSC, ISO9001
+
+
+=============================
+
+
+Supplier_ID: SUP-009
+Supplier_Name: Tianhe Alloy Group
+
+Region: APAC
+Country: China
+
+Contract_Tier: Tier-2
+Risk_Level: Medium
+
+Compliance_Score_Avg: 81.39
+Sustainability_Score_Avg: 62.78
+
+Average_OTD: 87.03
+Average_Defect_Rate: 1.88
+
+PO_Count: 18
+Total_PO_Value_USD: 8739796.9
+
+Units_Ordered_Total: 418387
+Units_Delivered_Total: 365610
+Units_Rejected_Total: 7545
+
+Active_Disruptions:
+Audit overdue; compliance review, Export license risk, Geopolitical tension flag, Political instability flag, Port congestion risk, Regulatory audit pending, Seasonal flood risk
+
+Certifications:
+ISO9001
+
+
+=============================
+
+
+Supplier_ID: SUP-010
+Supplier_Name: Bohai Electronics
+
+Region: APAC
+Country: China
+
+Contract_Tier: Tier-3
+Risk_Level: High
+
+Compliance_Score_Avg: 62.06
+Sustainability_Score_Avg: 42.78
+
+Average_OTD: 71.26
+Average_Defect_Rate: 3.4
+
+PO_Count: 18
+Total_PO_Value_USD: 3436726.31
+
+Units_Ordered_Total: 509364
+Units_Delivered_Total: 368048
+Units_Rejected_Total: 17748
+
+Active_Disruptions:
+Geopolitical tension flag, Labour strike risk, Port congestion risk, Regulatory audit pending, Regulatory enforcement pending, Tariff adjustment pending, Typhoon season disruption
+
+Certifications:
+ISO9001, RoHS
+
+
+=============================
+
+
+Supplier_ID: SUP-011
+Supplier_Name: Dravex Components India
+
+Region: APAC
+Country: India
+
+Contract_Tier: Tier-3
+Risk_Level: High
+
+Compliance_Score_Avg: 65.67
+Sustainability_Score_Avg: 45.06
+
+Average_OTD: 72.27
+Average_Defect_Rate: 3.27
+
+PO_Count: 18
+Total_PO_Value_USD: 3236970.2
+
+Units_Ordered_Total: 653857
+Units_Delivered_Total: 479579
+Units_Rejected_Total: 22761
+
+Active_Disruptions:
+Audit overdue; compliance review, Geopolitical tension flag, Political instability flag, Port closure risk, Port congestion risk, Regulatory audit pending, Regulatory enforcement pending, Seasonal flood risk, Typhoon season disruption
+
+Certifications:
+ISO9001
+
+
+=============================
+
+
+Supplier_ID: SUP-012
+Supplier_Name: Bharat Precision Works
+
+Region: APAC
+Country: India
+
+Contract_Tier: Tier-2
+Risk_Level: High
+
+Compliance_Score_Avg: 80.5
+Sustainability_Score_Avg: 63.11
+
+Average_OTD: 86.75
+Average_Defect_Rate: 1.59
+
+PO_Count: 18
+Total_PO_Value_USD: 2031103.65
+
+Units_Ordered_Total: 434842
+Units_Delivered_Total: 372349
+Units_Rejected_Total: 8084
+
+Active_Disruptions:
+Audit overdue; compliance review, Currency volatility flag, Export license risk, Political instability flag, Seasonal flood risk, Tariff adjustment pending
+
+Certifications:
+IATF16949, ISO9001
+
+
+=============================
+
+
+Supplier_ID: SUP-013
+Supplier_Name: IndoTech Fab Ltd
+
+Region: APAC
+Country: India
+
+Contract_Tier: Tier-2
+Risk_Level: Medium
+
+Compliance_Score_Avg: 79.0
+Sustainability_Score_Avg: 63.44
+
+Average_OTD: 86.76
+Average_Defect_Rate: 1.9
+
+PO_Count: 18
+Total_PO_Value_USD: 3752327.43
+
+Units_Ordered_Total: 643261
+Units_Delivered_Total: 558478
+Units_Rejected_Total: 11672
+
+Active_Disruptions:
+Audit overdue; compliance review, Geopolitical tension flag, Labour strike risk, Port congestion risk, Regulatory audit pending, Seasonal flood risk
+
+Certifications:
+ISO9001, RoHS
+
+
+=============================
+
+
+Supplier_ID: SUP-014
+Supplier_Name: Deccan Polymer Mfg
+
+Region: APAC
+Country: India
+
+Contract_Tier: Tier-3
+Risk_Level: Low
+
+Compliance_Score_Avg: 61.06
+Sustainability_Score_Avg: 45.39
+
+Average_OTD: 73.16
+Average_Defect_Rate: 2.65
+
+PO_Count: 18
+Total_PO_Value_USD: 7223092.8
+
+Units_Ordered_Total: 596660
+Units_Delivered_Total: 433342
+Units_Rejected_Total: 17240
+
+Active_Disruptions:
+Currency volatility flag, Geopolitical tension flag, Labour strike risk, Political instability flag, Port congestion risk, Regulatory enforcement pending, Seasonal flood risk, Tariff adjustment pending, Typhoon season disruption
+
+Certifications:
+ISO9001
+
+
+=============================
+
+
+Supplier_ID: SUP-015
+Supplier_Name: Narmada Pack Solutions
+
+Region: APAC
+Country: India
+
+Contract_Tier: Tier-2
+Risk_Level: Medium
+
+Compliance_Score_Avg: 79.22
+Sustainability_Score_Avg: 69.78
+
+Average_OTD: 86.76
+Average_Defect_Rate: 1.92
+
+PO_Count: 18
+Total_PO_Value_USD: 1013910.11
+
+Units_Ordered_Total: 517486
+Units_Delivered_Total: 447752
+Units_Rejected_Total: 9345
+
+Active_Disruptions:
+Currency volatility flag, Geopolitical tension flag, Political instability flag, Port closure risk, Port congestion risk, Regulatory audit pending, Regulatory enforcement pending, Seasonal flood risk
+
+Certifications:
+FSC, ISO9001
+
+
+=============================
+
+
+Supplier_ID: SUP-016
+Supplier_Name: Konkan Textile Mills
+
+Region: APAC
+Country: India
+
+Contract_Tier: Tier-2
+Risk_Level: Low
+
+Compliance_Score_Avg: 77.44
+Sustainability_Score_Avg: 67.78
+
+Average_OTD: 86.01
+Average_Defect_Rate: 1.73
+
+PO_Count: 18
+Total_PO_Value_USD: 2363910.72
+
+Units_Ordered_Total: 590841
+Units_Delivered_Total: 511153
+Units_Rejected_Total: 10042
+
+Active_Disruptions:
+Export license risk, Labour strike risk, Political instability flag, Port congestion risk, Seasonal flood risk, Tariff adjustment pending, Typhoon season disruption
+
+Certifications:
+ISO9001, OEKO-TEX
+
+
+=============================
+
+
+Supplier_ID: SUP-017
+Supplier_Name: Sahyadri Alloy Tech
+
+Region: APAC
+Country: India
+
+Contract_Tier: Tier-3
+Risk_Level: High
+
+Compliance_Score_Avg: 61.67
+Sustainability_Score_Avg: 48.56
+
+Average_OTD: 73.42
+Average_Defect_Rate: 2.86
+
+PO_Count: 18
+Total_PO_Value_USD: 16178106.95
+
+Units_Ordered_Total: 701886
+Units_Delivered_Total: 507478
+Units_Rejected_Total: 20746
+
+Active_Disruptions:
+Currency volatility flag, Export license risk, Political instability flag, Port closure risk, Port congestion risk, Regulatory enforcement pending, Typhoon season disruption
+
+Certifications:
+ISO9001
+
+
+=============================
+
+
+Supplier_ID: SUP-018
+Supplier_Name: Deltaforge Vietnam
+
+Region: APAC
+Country: Vietnam
+
+Contract_Tier: Tier-3
+Risk_Level: Medium
+
+Compliance_Score_Avg: 64.0
+Sustainability_Score_Avg: 46.94
+
+Average_OTD: 72.99
+Average_Defect_Rate: 2.61
+
+PO_Count: 18
+Total_PO_Value_USD: 3060089.67
+
+Units_Ordered_Total: 607464
+Units_Delivered_Total: 440751
+Units_Rejected_Total: 16670
+
+Active_Disruptions:
+Audit overdue; compliance review, Export license risk, Labour strike risk, Port closure risk, Port congestion risk, Regulatory audit pending, Seasonal flood risk, Tariff adjustment pending
+
+Certifications:
+ISO9001
+
+
+=============================
+
+
+Supplier_ID: SUP-019
+Supplier_Name: Saigon Precision Works
+
+Region: APAC
+Country: Vietnam
+
+Contract_Tier: Tier-2
+Risk_Level: Low
+
+Compliance_Score_Avg: 76.83
+Sustainability_Score_Avg: 68.44
+
+Average_OTD: 87.12
+Average_Defect_Rate: 1.55
+
+PO_Count: 18
+Total_PO_Value_USD: 3475625.36
+
+Units_Ordered_Total: 521532
+Units_Delivered_Total: 457078
+Units_Rejected_Total: 7047
+
+Active_Disruptions:
+Export license risk, Geopolitical tension flag, Labour strike risk, Port closure risk, Regulatory audit pending, Seasonal flood risk, Typhoon season disruption
+
+Certifications:
+ISO9001, RoHS
+
+
+=============================
+
+
+Supplier_ID: SUP-020
+Supplier_Name: MeKong Pack Co
+
+Region: APAC
+Country: Vietnam
+
+Contract_Tier: Tier-3
+Risk_Level: Medium
+
+Compliance_Score_Avg: 60.89
+Sustainability_Score_Avg: 48.89
+
+Average_OTD: 70.98
+Average_Defect_Rate: 2.86
+
+PO_Count: 18
+Total_PO_Value_USD: 1312164.75
+
+Units_Ordered_Total: 720443
+Units_Delivered_Total: 518295
+Units_Rejected_Total: 20893
+
+Active_Disruptions:
+Audit overdue; compliance review, Currency volatility flag, Export license risk, Geopolitical tension flag, Political instability flag, Port congestion risk, Regulatory audit pending, Regulatory enforcement pending, Typhoon season disruption
+
+Certifications:
+FSC, ISO9001
+
+
+=============================
+
+
+Supplier_ID: SUP-021
+Supplier_Name: HanoiTex Industries
+
+Region: APAC
+Country: Vietnam
+
+Contract_Tier: Tier-2
+Risk_Level: Low
+
+Compliance_Score_Avg: 80.11
+Sustainability_Score_Avg: 65.22
+
+Average_OTD: 86.03
+Average_Defect_Rate: 1.72
+
+PO_Count: 18
+Total_PO_Value_USD: 1873122.0
+
+Units_Ordered_Total: 494963
+Units_Delivered_Total: 421558
+Units_Rejected_Total: 7251
+
+Active_Disruptions:
+Audit overdue; compliance review, Currency volatility flag, Political instability flag, Port closure risk, Regulatory audit pending, Seasonal flood risk, Tariff adjustment pending
+
+Certifications:
+ISO9001, OEKO-TEX
+
+
+=============================
+
+
+Supplier_ID: SUP-022
+Supplier_Name: DaNang Metal Works
+
+Region: APAC
+Country: Vietnam
+
+Contract_Tier: Tier-3
+Risk_Level: High
+
+Compliance_Score_Avg: 61.28
+Sustainability_Score_Avg: 49.33
+
+Average_OTD: 72.51
+Average_Defect_Rate: 2.89
+
+PO_Count: 18
+Total_PO_Value_USD: 2771851.75
+
+Units_Ordered_Total: 612645
+Units_Delivered_Total: 445454
+Units_Rejected_Total: 17392
+
+Active_Disruptions:
+Audit overdue; compliance review, Currency volatility flag, Labour strike risk, Port closure risk, Port congestion risk, Regulatory audit pending, Regulatory enforcement pending, Tariff adjustment pending, Typhoon season disruption
+
+Certifications:
+ISO9001
+
+
+=============================
+
+
+Supplier_ID: SUP-023
+Supplier_Name: Hanguk Circuit Works
+
+Region: APAC
+Country: South Korea
+
+Contract_Tier: Tier-1
+Risk_Level: Low
+
+Compliance_Score_Avg: 88.72
+Sustainability_Score_Avg: 79.44
+
+Average_OTD: 94.21
+Average_Defect_Rate: 1.15
+
+PO_Count: 18
+Total_PO_Value_USD: 1110894.35
+
+Units_Ordered_Total: 160359
+Units_Delivered_Total: 149755
+Units_Rejected_Total: 1945
+
+Active_Disruptions:
+Audit overdue; compliance review, Port closure risk, Port congestion risk, Regulatory audit pending, Seasonal flood risk, Tariff adjustment pending
+
+Certifications:
+AEC-Q100, ISO9001
+
+
+=============================
+
+
+Supplier_ID: SUP-024
+Supplier_Name: Seoultech Micro
+
+Region: APAC
+Country: South Korea
+
+Contract_Tier: Tier-2
+Risk_Level: Medium
+
+Compliance_Score_Avg: 81.5
+Sustainability_Score_Avg: 66.67
+
+Average_OTD: 86.12
+Average_Defect_Rate: 1.83
+
+PO_Count: 18
+Total_PO_Value_USD: 3297535.58
+
+Units_Ordered_Total: 557435
+Units_Delivered_Total: 471801
+Units_Rejected_Total: 10133
+
+Active_Disruptions:
+Export license risk, Geopolitical tension flag, Political instability flag, Port closure risk, Port congestion risk, Regulatory audit pending, Regulatory enforcement pending, Seasonal flood risk
+
+Certifications:
+ISO9001, RoHS
+
+
+=============================
+
+
+Supplier_ID: SUP-025
+Supplier_Name: Koryo Alloy Systems
+
+Region: APAC
+Country: South Korea
+
+Contract_Tier: Tier-1
+Risk_Level: High
+
+Compliance_Score_Avg: 87.11
+Sustainability_Score_Avg: 84.44
+
+Average_OTD: 94.28
+Average_Defect_Rate: 1.05
+
+PO_Count: 18
+Total_PO_Value_USD: 3701463.07
+
+Units_Ordered_Total: 152138
+Units_Delivered_Total: 143016
+Units_Rejected_Total: 1563
+
+Active_Disruptions:
+Audit overdue; compliance review, Currency volatility flag, Geopolitical tension flag, Port congestion risk, Regulatory audit pending
+
+Certifications:
+ISO9001, NADCAP
+
+
+=============================
+
+
+Supplier_ID: SUP-026
+Supplier_Name: Hangang Steel Parts
+
+Region: APAC
+Country: South Korea
+
+Contract_Tier: Tier-2
+Risk_Level: Low
+
+Compliance_Score_Avg: 78.78
+Sustainability_Score_Avg: 67.39
+
+Average_OTD: 85.51
+Average_Defect_Rate: 1.98
+
+PO_Count: 18
+Total_PO_Value_USD: 2426635.76
+
+Units_Ordered_Total: 473273
+Units_Delivered_Total: 401496
+Units_Rejected_Total: 9080
+
+Active_Disruptions:
+Geopolitical tension flag, Labour strike risk, Port closure risk, Port congestion risk, Seasonal flood risk, Tariff adjustment pending, Typhoon season disruption
+
+Certifications:
+IATF16949, ISO9001
+
+
+=============================
+
+
+Supplier_ID: SUP-027
+Supplier_Name: Busan Pack Corp
+
+Region: APAC
+Country: South Korea
+
+Contract_Tier: Tier-2
+Risk_Level: High
+
+Compliance_Score_Avg: 81.67
+Sustainability_Score_Avg: 68.67
+
+Average_OTD: 88.25
+Average_Defect_Rate: 1.98
+
+PO_Count: 18
+Total_PO_Value_USD: 864414.12
+
+Units_Ordered_Total: 418907
+Units_Delivered_Total: 373526
+Units_Rejected_Total: 9013
+
+Active_Disruptions:
+Audit overdue; compliance review, Export license risk, Labour strike risk, Port closure risk, Regulatory audit pending, Tariff adjustment pending, Typhoon season disruption
+
+Certifications:
+FSC, ISO9001
+
+
+=============================
+
+
+Supplier_ID: SUP-028
+Supplier_Name: Hokkaido Alloy Tech
+
+Region: APAC
+Country: Japan
+
+Contract_Tier: Tier-1
+Risk_Level: Low
+
+Compliance_Score_Avg: 88.39
+Sustainability_Score_Avg: 83.56
+
+Average_OTD: 94.09
+Average_Defect_Rate: 0.97
+
+PO_Count: 18
+Total_PO_Value_USD: 3795087.29
+
+Units_Ordered_Total: 182307
+Units_Delivered_Total: 171891
+Units_Rejected_Total: 1672
+
+Active_Disruptions:
+Audit overdue; compliance review, Currency volatility flag, Regulatory audit pending, Typhoon season disruption
+
+Certifications:
+AS9100, ISO9001, NADCAP
+
+
+=============================
+
+
+Supplier_ID: SUP-029
+Supplier_Name: Kinki Precision Corp
+
+Region: APAC
+Country: Japan
+
+Contract_Tier: Tier-1
+Risk_Level: Low
+
+Compliance_Score_Avg: 90.29
+Sustainability_Score_Avg: 85.06
+
+Average_OTD: 94.18
+Average_Defect_Rate: 1.0
+
+PO_Count: 17
+Total_PO_Value_USD: 864666.51
+
+Units_Ordered_Total: 142439
+Units_Delivered_Total: 134442
+Units_Rejected_Total: 1471
+
+Active_Disruptions:
+Geopolitical tension flag, Tariff adjustment pending
+
+Certifications:
+AEC-Q100, ISO9001, RoHS
+
+
+=============================
+
+
+Supplier_ID: SUP-030
+Supplier_Name: Osaka Polymer Systems
+
+Region: APAC
+Country: Japan
+
+Contract_Tier: Tier-1
+Risk_Level: Low
+
+Compliance_Score_Avg: 88.94
+Sustainability_Score_Avg: 83.82
+
+Average_OTD: 94.84
+Average_Defect_Rate: 0.9
+
+PO_Count: 17
+Total_PO_Value_USD: 1766673.12
+
+Units_Ordered_Total: 130215
+Units_Delivered_Total: 123691
+Units_Rejected_Total: 1274
+
+Active_Disruptions:
+Geopolitical tension flag, Seasonal flood risk
+
+Certifications:
+ISO14001, ISO9001, REACH
+
+
+=============================
+
+
+Supplier_ID: SUP-031
+Supplier_Name: Sendai Mech Works
+
+Region: APAC
+Country: Japan
+
+Contract_Tier: Tier-1
+Risk_Level: Medium
+
+Compliance_Score_Avg: 86.88
+Sustainability_Score_Avg: 84.0
+
+Average_OTD: 93.34
+Average_Defect_Rate: 1.05
+
+PO_Count: 17
+Total_PO_Value_USD: 703129.89
+
+Units_Ordered_Total: 152326
+Units_Delivered_Total: 142606
+Units_Rejected_Total: 1397
+
+Active_Disruptions:
+Export license risk, Port congestion risk, Regulatory audit pending, Seasonal flood risk, Typhoon season disruption
+
+Certifications:
+IATF16949, ISO9001
+
+
+=============================
+
+
+Supplier_ID: SUP-032
+Supplier_Name: Kyushu Textile Co
+
+Region: APAC
+Country: Japan
+
+Contract_Tier: Tier-1
+Risk_Level: Medium
+
+Compliance_Score_Avg: 88.71
+Sustainability_Score_Avg: 85.35
+
+Average_OTD: 93.16
+Average_Defect_Rate: 0.78
+
+PO_Count: 17
+Total_PO_Value_USD: 483092.31
+
+Units_Ordered_Total: 117528
+Units_Delivered_Total: 108997
+Units_Rejected_Total: 890
+
+Active_Disruptions:
+Audit overdue; compliance review, Geopolitical tension flag, Political instability flag, Port congestion risk
+
+Certifications:
+ISO14001, ISO9001, OEKO-TEX
+
+
+=============================
+
+
+Supplier_ID: SUP-033
+Supplier_Name: PrecisionForge Taiyuan
+
+Region: APAC
+Country: Taiwan
+
+Contract_Tier: Tier-1
+Risk_Level: Medium
+
+Compliance_Score_Avg: 87.82
+Sustainability_Score_Avg: 85.24
+
+Average_OTD: 94.43
+Average_Defect_Rate: 1.12
+
+PO_Count: 17
+Total_PO_Value_USD: 591164.41
+
+Units_Ordered_Total: 131604
+Units_Delivered_Total: 123289
+Units_Rejected_Total: 1442
+
+Active_Disruptions:
+Port congestion risk, Seasonal flood risk, Tariff adjustment pending
+
+Certifications:
+IATF16949, ISO9001
+
+
+=============================
+
+
+Supplier_ID: SUP-034
+Supplier_Name: Formosa Circuit Co
+
+Region: APAC
+Country: Taiwan
+
+Contract_Tier: Tier-1
+Risk_Level: Low
+
+Compliance_Score_Avg: 91.12
+Sustainability_Score_Avg: 81.12
+
+Average_OTD: 92.62
+Average_Defect_Rate: 1.05
+
+PO_Count: 17
+Total_PO_Value_USD: 912811.76
+
+Units_Ordered_Total: 146705
+Units_Delivered_Total: 135692
+Units_Rejected_Total: 1452
+
+Active_Disruptions:
+Audit overdue; compliance review, Geopolitical tension flag, Regulatory enforcement pending, Typhoon season disruption
+
+Certifications:
+AEC-Q100, ISO9001, RoHS
+
+
+=============================
+
+
+Supplier_ID: SUP-035
+Supplier_Name: Yulon Alloy Mfg
+
+Region: APAC
+Country: Taiwan
+
+Contract_Tier: Tier-2
+Risk_Level: Low
+
+Compliance_Score_Avg: 78.0
+Sustainability_Score_Avg: 74.24
+
+Average_OTD: 87.79
+Average_Defect_Rate: 1.95
+
+PO_Count: 17
+Total_PO_Value_USD: 7576863.87
+
+Units_Ordered_Total: 373137
+Units_Delivered_Total: 330079
+Units_Rejected_Total: 6712
+
+Active_Disruptions:
+Geopolitical tension flag, Political instability flag, Port closure risk, Port congestion risk, Regulatory audit pending, Seasonal flood risk, Tariff adjustment pending, Typhoon season disruption
+
+Certifications:
+ISO9001
+
+
+=============================
+
+
+Supplier_ID: SUP-036
+Supplier_Name: Kaohsiung Pack Co
+
+Region: APAC
+Country: Taiwan
+
+Contract_Tier: Tier-2
+Risk_Level: Low
+
+Compliance_Score_Avg: 78.41
+Sustainability_Score_Avg: 72.71
+
+Average_OTD: 84.71
+Average_Defect_Rate: 1.68
+
+PO_Count: 17
+Total_PO_Value_USD: 1121300.49
+
+Units_Ordered_Total: 512713
+Units_Delivered_Total: 432662
+Units_Rejected_Total: 7731
+
+Active_Disruptions:
+Geopolitical tension flag, Political instability flag, Port closure risk, Regulatory enforcement pending, Seasonal flood risk, Tariff adjustment pending
+
+Certifications:
+FSC, ISO9001
+
+
+=============================
+
+
+Supplier_ID: SUP-037
+Supplier_Name: Straits Packaging Hub
+
+Region: APAC
+Country: Singapore
+
+Contract_Tier: Tier-1
+Risk_Level: High
+
+Compliance_Score_Avg: 92.12
+Sustainability_Score_Avg: 83.59
+
+Average_OTD: 93.41
+Average_Defect_Rate: 0.96
+
+PO_Count: 17
+Total_PO_Value_USD: 357752.13
+
+Units_Ordered_Total: 149167
+Units_Delivered_Total: 139291
+Units_Rejected_Total: 1444
+
+Active_Disruptions:
+Geopolitical tension flag, Political instability flag, Seasonal flood risk, Tariff adjustment pending
+
+Certifications:
+ISO14001, ISO9001
+
+
+=============================
+
+
+Supplier_ID: SUP-038
+Supplier_Name: SingaMold Tech
+
+Region: APAC
+Country: Singapore
+
+Contract_Tier: Tier-1
+Risk_Level: Low
+
+Compliance_Score_Avg: 87.41
+Sustainability_Score_Avg: 83.06
+
+Average_OTD: 94.66
+Average_Defect_Rate: 0.78
+
+PO_Count: 17
+Total_PO_Value_USD: 687982.73
+
+Units_Ordered_Total: 114411
+Units_Delivered_Total: 108350
+Units_Rejected_Total: 1016
+
+Active_Disruptions:
+Political instability flag, Regulatory enforcement pending, Seasonal flood risk, Tariff adjustment pending
+
+Certifications:
+IATF16949, ISO9001
+
+
+=============================
+
+
+Supplier_ID: SUP-039
+Supplier_Name: Krungsri Moldtech
+
+Region: APAC
+Country: Thailand
+
+Contract_Tier: Tier-2
+Risk_Level: Medium
+
+Compliance_Score_Avg: 78.29
+Sustainability_Score_Avg: 65.47
+
+Average_OTD: 86.89
+Average_Defect_Rate: 1.82
+
+PO_Count: 17
+Total_PO_Value_USD: 2033808.35
+
+Units_Ordered_Total: 400553
+Units_Delivered_Total: 344263
+Units_Rejected_Total: 7156
+
+Active_Disruptions:
+Audit overdue; compliance review, Export license risk, Geopolitical tension flag, Regulatory audit pending, Seasonal flood risk, Tariff adjustment pending
+
+Certifications:
+IATF16949, ISO9001
+
+
+=============================
+
+
+Supplier_ID: SUP-040
+Supplier_Name: ChaoPhaya Pack
+
+Region: APAC
+Country: Thailand
+
+Contract_Tier: Tier-2
+Risk_Level: Medium
+
+Compliance_Score_Avg: 81.0
+Sustainability_Score_Avg: 65.82
+
+Average_OTD: 87.94
+Average_Defect_Rate: 1.51
+
+PO_Count: 17
+Total_PO_Value_USD: 1059383.66
+
+Units_Ordered_Total: 522126
+Units_Delivered_Total: 454483
+Units_Rejected_Total: 7370
+
+Active_Disruptions:
+Geopolitical tension flag, Port congestion risk, Regulatory audit pending, Seasonal flood risk, Tariff adjustment pending
+
+Certifications:
+FSC, ISO9001
+
+
+=============================
+
+
+Supplier_ID: SUP-041
+Supplier_Name: Archipelago PCB Corp
+
+Region: APAC
+Country: Philippines
+
+Contract_Tier: Tier-3
+Risk_Level: High
+
+Compliance_Score_Avg: 66.71
+Sustainability_Score_Avg: 47.65
+
+Average_OTD: 74.42
+Average_Defect_Rate: 2.82
+
+PO_Count: 17
+Total_PO_Value_USD: 4402101.57
+
+Units_Ordered_Total: 694854
+Units_Delivered_Total: 518586
+Units_Rejected_Total: 18079
+
+Active_Disruptions:
+Audit overdue; compliance review, Export license risk, Labour strike risk, Port closure risk, Tariff adjustment pending, Typhoon season disruption
+
+Certifications:
+ISO9001
+
+
+=============================
+
+
+Supplier_ID: SUP-042
+Supplier_Name: Visayas Textile Co
+
+Region: APAC
+Country: Philippines
+
+Contract_Tier: Tier-3
+Risk_Level: Medium
+
+Compliance_Score_Avg: 60.94
+Sustainability_Score_Avg: 50.24
+
+Average_OTD: 76.0
+Average_Defect_Rate: 2.97
+
+PO_Count: 17
+Total_PO_Value_USD: 2723402.89
+
+Units_Ordered_Total: 677340
+Units_Delivered_Total: 518469
+Units_Rejected_Total: 19205
+
+Active_Disruptions:
+Currency volatility flag, Export license risk, Geopolitical tension flag, Port closure risk, Port congestion risk, Regulatory audit pending, Regulatory enforcement pending, Tariff adjustment pending
+
+Certifications:
+ISO9001, OEKO-TEX
+
+
+=============================
+
+
+Supplier_ID: SUP-043
+Supplier_Name: Tasman Circuit Boards
+
+Region: APAC
+Country: Australia
+
+Contract_Tier: Tier-1
+Risk_Level: Medium
+
+Compliance_Score_Avg: 87.18
+Sustainability_Score_Avg: 83.18
+
+Average_OTD: 94.57
+Average_Defect_Rate: 1.19
+
+PO_Count: 17
+Total_PO_Value_USD: 1162467.22
+
+Units_Ordered_Total: 160656
+Units_Delivered_Total: 152449
+Units_Rejected_Total: 2040
+
+Active_Disruptions:
+Geopolitical tension flag, Regulatory audit pending, Tariff adjustment pending
+
+Certifications:
+AEC-Q100, ISO9001, RoHS
+
+
+=============================
+
+
+Supplier_ID: SUP-044
+Supplier_Name: Broken Hill Alloys
+
+Region: APAC
+Country: Australia
+
+Contract_Tier: Tier-1
+Risk_Level: Low
+
+Compliance_Score_Avg: 89.41
+Sustainability_Score_Avg: 86.65
+
+Average_OTD: 93.77
+Average_Defect_Rate: 0.55
+
+PO_Count: 17
+Total_PO_Value_USD: 2124588.35
+
+Units_Ordered_Total: 114233
+Units_Delivered_Total: 107205
+Units_Rejected_Total: 778
+
+Active_Disruptions:
+Geopolitical tension flag, Political instability flag, Port closure risk, Seasonal flood risk
+
+Certifications:
+ISO9001, NADCAP
+
+
+=============================
+
+
+Supplier_ID: SUP-045
+Supplier_Name: Sibertek Molding
+
+Region: APAC
+Country: Russia
+
+Contract_Tier: Tier-3
+Risk_Level: Medium
+
+Compliance_Score_Avg: 64.24
+Sustainability_Score_Avg: 47.53
+
+Average_OTD: 72.69
+Average_Defect_Rate: 3.19
+
+PO_Count: 17
+Total_PO_Value_USD: 3126936.59
+
+Units_Ordered_Total: 639763
+Units_Delivered_Total: 462283
+Units_Rejected_Total: 20977
+
+Active_Disruptions:
+Geopolitical tension flag, Labour strike risk, Port closure risk, Regulatory audit pending, Seasonal flood risk, Tariff adjustment pending
+
+Certifications:
+ISO9001
+
+
+=============================
+
+
+Supplier_ID: SUP-046
+Supplier_Name: Krauss-Polymex GmbH
+
+Region: EMEA
+Country: Germany
+
+Contract_Tier: Tier-1
+Risk_Level: Low
+
+Compliance_Score_Avg: 89.59
+Sustainability_Score_Avg: 86.53
+
+Average_OTD: 93.56
+Average_Defect_Rate: 0.94
+
+PO_Count: 17
+Total_PO_Value_USD: 1934117.17
+
+Units_Ordered_Total: 167145
+Units_Delivered_Total: 156361
+Units_Rejected_Total: 1608
+
+Active_Disruptions:
+Geopolitical tension flag, Regulatory audit pending, Seasonal flood risk
+
+Certifications:
+ISO14001, ISO9001, REACH
+
+
+=============================
+
+
+Supplier_ID: SUP-047
+Supplier_Name: Rheinwerk Precision AG
+
+Region: EMEA
+Country: Germany
+
+Contract_Tier: Tier-1
+Risk_Level: Low
+
+Compliance_Score_Avg: 89.76
+Sustainability_Score_Avg: 85.41
+
+Average_OTD: 93.65
+Average_Defect_Rate: 0.96
+
+PO_Count: 17
+Total_PO_Value_USD: 672371.26
+
+Units_Ordered_Total: 154852
+Units_Delivered_Total: 144319
+Units_Rejected_Total: 1502
+
+Active_Disruptions:
+Geopolitical tension flag, Regulatory audit pending, Typhoon season disruption
+
+Certifications:
+IATF16949, ISO9001
+
+
+=============================
+
+
+Supplier_ID: SUP-048
+Supplier_Name: Berliner Pack GmbH
+
+Region: EMEA
+Country: Germany
+
+Contract_Tier: Tier-1
+Risk_Level: Low
+
+Compliance_Score_Avg: 89.94
+Sustainability_Score_Avg: 80.82
+
+Average_OTD: 93.85
+Average_Defect_Rate: 0.76
+
+PO_Count: 17
+Total_PO_Value_USD: 289328.09
+
+Units_Ordered_Total: 143356
+Units_Delivered_Total: 135225
+Units_Rejected_Total: 1058
+
+Active_Disruptions:
+Export license risk, Port closure risk, Port congestion risk, Regulatory enforcement pending, Tariff adjustment pending
+
+Certifications:
+FSC, ISO14001, ISO9001
+
+
+=============================
+
+
+Supplier_ID: SUP-049
+Supplier_Name: Munich Alloy Technik
+
+Region: EMEA
+Country: Germany
+
+Contract_Tier: Tier-1
+Risk_Level: Low
+
+Compliance_Score_Avg: 90.88
+Sustainability_Score_Avg: 83.76
+
+Average_OTD: 94.45
+Average_Defect_Rate: 0.89
+
+PO_Count: 17
+Total_PO_Value_USD: 3034722.45
+
+Units_Ordered_Total: 143299
+Units_Delivered_Total: 136013
+Units_Rejected_Total: 1121
+
+Active_Disruptions:
+Geopolitical tension flag, Labour strike risk, Port closure risk, Seasonal flood risk
+
+Certifications:
+AS9100, ISO9001, NADCAP
+
+
+=============================
+
+
+Supplier_ID: SUP-050
+Supplier_Name: Dresdner Textilwerk
+
+Region: EMEA
+Country: Germany
+
+Contract_Tier: Tier-2
+Risk_Level: Medium
+
+Compliance_Score_Avg: 79.59
+Sustainability_Score_Avg: 63.88
+
+Average_OTD: 85.49
+Average_Defect_Rate: 1.76
+
+PO_Count: 17
+Total_PO_Value_USD: 1890839.73
+
+Units_Ordered_Total: 473700
+Units_Delivered_Total: 406708
+Units_Rejected_Total: 8598
+
+Active_Disruptions:
+Export license risk, Geopolitical tension flag, Political instability flag, Port congestion risk, Regulatory audit pending, Tariff adjustment pending
+
+Certifications:
+ISO9001, OEKO-TEX
+
+
+=============================
+
+
+Supplier_ID: SUP-051
+Supplier_Name: Toreval Electronics
+
+Region: EMEA
+Country: France
+
+Contract_Tier: Tier-1
+Risk_Level: Low
+
+Compliance_Score_Avg: 89.71
+Sustainability_Score_Avg: 83.59
+
+Average_OTD: 93.72
+Average_Defect_Rate: 0.74
+
+PO_Count: 17
+Total_PO_Value_USD: 943358.32
+
+Units_Ordered_Total: 151403
+Units_Delivered_Total: 140142
+Units_Rejected_Total: 931
+
+Active_Disruptions:
+Audit overdue; compliance review, Currency volatility flag, Port congestion risk, Tariff adjustment pending
+
+Certifications:
+AEC-Q100, ISO9001, RoHS
+
+
+=============================
+
+
+Supplier_ID: SUP-052
+Supplier_Name: Lyon Polymer SAS
+
+Region: EMEA
+Country: France
+
+Contract_Tier: Tier-1
+Risk_Level: Medium
+
+Compliance_Score_Avg: 87.94
+Sustainability_Score_Avg: 81.59
+
+Average_OTD: 93.34
+Average_Defect_Rate: 0.91
+
+PO_Count: 17
+Total_PO_Value_USD: 1493177.51
+
+Units_Ordered_Total: 119392
+Units_Delivered_Total: 111257
+Units_Rejected_Total: 1125
+
+Active_Disruptions:
+Export license risk, Geopolitical tension flag, Port congestion risk, Regulatory enforcement pending, Seasonal flood risk, Tariff adjustment pending
+
+Certifications:
+ISO14001, ISO9001, REACH
+
+
+=============================
+
+
+Supplier_ID: SUP-053
+Supplier_Name: Bordeaux Pack SAS
+
+Region: EMEA
+Country: France
+
+Contract_Tier: Tier-2
+Risk_Level: Low
+
+Compliance_Score_Avg: 78.35
+Sustainability_Score_Avg: 69.41
+
+Average_OTD: 87.4
+Average_Defect_Rate: 1.9
+
+PO_Count: 17
+Total_PO_Value_USD: 703614.84
+
+Units_Ordered_Total: 361442
+Units_Delivered_Total: 318588
+Units_Rejected_Total: 6381
+
+Active_Disruptions:
+Audit overdue; compliance review, Geopolitical tension flag, Labour strike risk, Regulatory audit pending, Seasonal flood risk, Tariff adjustment pending, Typhoon season disruption
+
+Certifications:
+FSC, ISO14001, ISO9001
+
+
+=============================
+
+
+Supplier_ID: SUP-054
+Supplier_Name: Lumivex Semiconductor NL
+
+Region: EMEA
+Country: Netherlands
+
+Contract_Tier: Tier-1
+Risk_Level: High
+
+Compliance_Score_Avg: 88.12
+Sustainability_Score_Avg: 83.82
+
+Average_OTD: 93.16
+Average_Defect_Rate: 0.92
+
+PO_Count: 17
+Total_PO_Value_USD: 922977.08
+
+Units_Ordered_Total: 135282
+Units_Delivered_Total: 126016
+Units_Rejected_Total: 1169
+
+Active_Disruptions:
+Export license risk, Labour strike risk, Political instability flag, Port congestion risk, Regulatory audit pending, Tariff adjustment pending
+
+Certifications:
+AEC-Q100, ISO9001, RoHS
+
+
+=============================
+
+
+Supplier_ID: SUP-055
+Supplier_Name: Rotterdam Chem BV
+
+Region: EMEA
+Country: Netherlands
+
+Contract_Tier: Tier-1
+Risk_Level: Low
+
+Compliance_Score_Avg: 90.76
+Sustainability_Score_Avg: 82.71
+
+Average_OTD: 93.24
+Average_Defect_Rate: 0.78
+
+PO_Count: 17
+Total_PO_Value_USD: 1737233.78
+
+Units_Ordered_Total: 142597
+Units_Delivered_Total: 131538
+Units_Rejected_Total: 1313
+
+Active_Disruptions:
+Port closure risk, Tariff adjustment pending
+
+Certifications:
+ISO14001, ISO9001, REACH
+
+
+=============================
+
+
+Supplier_ID: SUP-056
+Supplier_Name: Solveig Eco Packaging
+
+Region: EMEA
+Country: Sweden
+
+Contract_Tier: Tier-1
+Risk_Level: Low
+
+Compliance_Score_Avg: 88.88
+Sustainability_Score_Avg: 87.06
+
+Average_OTD: 94.03
+Average_Defect_Rate: 0.94
+
+PO_Count: 17
+Total_PO_Value_USD: 306239.11
+
+Units_Ordered_Total: 144992
+Units_Delivered_Total: 136519
+Units_Rejected_Total: 1376
+
+Active_Disruptions:
+Port congestion risk, Regulatory audit pending, Tariff adjustment pending
+
+Certifications:
+FSC, ISO14001, ISO9001
+
+
+=============================
+
+
+Supplier_ID: SUP-057
+Supplier_Name: Norrsken Textiles AB
+
+Region: EMEA
+Country: Sweden
+
+Contract_Tier: Tier-1
+Risk_Level: Medium
+
+Compliance_Score_Avg: 88.24
+Sustainability_Score_Avg: 89.29
+
+Average_OTD: 94.22
+Average_Defect_Rate: 1.01
+
+PO_Count: 17
+Total_PO_Value_USD: 509745.89
+
+Units_Ordered_Total: 136161
+Units_Delivered_Total: 129466
+Units_Rejected_Total: 1270
+
+Active_Disruptions:
+Currency volatility flag, Geopolitical tension flag, Labour strike risk, Port congestion risk, Regulatory audit pending, Seasonal flood risk
+
+Certifications:
+ISO14001, ISO9001, OEKO-TEX
+
+
+=============================
+
+
+Supplier_ID: SUP-058
+Supplier_Name: Norbec Alloy Works
+
+Region: EMEA
+Country: Norway
+
+Contract_Tier: Tier-1
+Risk_Level: Low
+
+Compliance_Score_Avg: 91.35
+Sustainability_Score_Avg: 84.12
+
+Average_OTD: 93.42
+Average_Defect_Rate: 1.02
+
+PO_Count: 17
+Total_PO_Value_USD: 2735906.82
+
+Units_Ordered_Total: 124613
+Units_Delivered_Total: 117346
+Units_Rejected_Total: 1345
+
+Active_Disruptions:
+Political instability flag, Regulatory enforcement pending, Seasonal flood risk, Tariff adjustment pending
+
+Certifications:
+AS9100, ISO14001, ISO9001
+
+
+=============================
+
+
+Supplier_ID: SUP-059
+Supplier_Name: Fjord Polymer AS
+
+Region: EMEA
+Country: Norway
+
+Contract_Tier: Tier-1
+Risk_Level: Low
+
+Compliance_Score_Avg: 88.53
+Sustainability_Score_Avg: 85.06
+
+Average_OTD: 93.33
+Average_Defect_Rate: 0.97
+
+PO_Count: 17
+Total_PO_Value_USD: 1391817.88
+
+Units_Ordered_Total: 109098
+Units_Delivered_Total: 101337
+Units_Rejected_Total: 1093
+
+Active_Disruptions:
+Export license risk, Port closure risk, Seasonal flood risk, Tariff adjustment pending
+
+Certifications:
+ISO14001, ISO9001, REACH
+
+
+=============================
+
+
+Supplier_ID: SUP-060
+Supplier_Name: Nordloom Finland Oy
+
+Region: EMEA
+Country: Finland
+
+Contract_Tier: Tier-1
+Risk_Level: Low
+
+Compliance_Score_Avg: 90.47
+Sustainability_Score_Avg: 83.12
+
+Average_OTD: 94.43
+Average_Defect_Rate: 1.06
+
+PO_Count: 17
+Total_PO_Value_USD: 406982.47
+
+Units_Ordered_Total: 119434
+Units_Delivered_Total: 112397
+Units_Rejected_Total: 1205
+
+Active_Disruptions:
+Audit overdue; compliance review, Geopolitical tension flag, Seasonal flood risk, Tariff adjustment pending
+
+Certifications:
+ISO14001, ISO9001, OEKO-TEX
+
+
+=============================
+
+
+Supplier_ID: SUP-061
+Supplier_Name: Helsinki Pack Oy
+
+Region: EMEA
+Country: Finland
+
+Contract_Tier: Tier-2
+Risk_Level: Medium
+
+Compliance_Score_Avg: 76.76
+Sustainability_Score_Avg: 64.35
+
+Average_OTD: 84.88
+Average_Defect_Rate: 1.54
+
+PO_Count: 17
+Total_PO_Value_USD: 694215.92
+
+Units_Ordered_Total: 433751
+Units_Delivered_Total: 368287
+Units_Rejected_Total: 5786
+
+Active_Disruptions:
+Political instability flag, Port closure risk, Port congestion risk, Regulatory audit pending, Regulatory enforcement pending, Seasonal flood risk, Typhoon season disruption
+
+Certifications:
+FSC, ISO9001
+
+
+=============================
+
+
+Supplier_ID: SUP-062
+Supplier_Name: Borealis Composites
+
+Region: EMEA
+Country: Denmark
+
+Contract_Tier: Tier-1
+Risk_Level: Low
+
+Compliance_Score_Avg: 88.65
+Sustainability_Score_Avg: 85.88
+
+Average_OTD: 93.62
+Average_Defect_Rate: 0.94
+
+PO_Count: 17
+Total_PO_Value_USD: 1699860.45
+
+Units_Ordered_Total: 145566
+Units_Delivered_Total: 136122
+Units_Rejected_Total: 1335
+
+Active_Disruptions:
+Currency volatility flag, Geopolitical tension flag, Port closure risk, Port congestion risk, Regulatory audit pending, Typhoon season disruption
+
+Certifications:
+ISO14001, ISO9001, REACH
+
+
+=============================
+
+
+Supplier_ID: SUP-063
+Supplier_Name: Elsinor Pack AS
+
+Region: EMEA
+Country: Denmark
+
+Contract_Tier: Tier-2
+Risk_Level: High
+
+Compliance_Score_Avg: 82.94
+Sustainability_Score_Avg: 67.18
+
+Average_OTD: 87.76
+Average_Defect_Rate: 1.85
+
+PO_Count: 17
+Total_PO_Value_USD: 914050.56
+
+Units_Ordered_Total: 413223
+Units_Delivered_Total: 368171
+Units_Rejected_Total: 7520
+
+Active_Disruptions:
+Audit overdue; compliance review, Geopolitical tension flag, Political instability flag, Port congestion risk, Regulatory audit pending, Regulatory enforcement pending, Tariff adjustment pending, Typhoon season disruption
+
+Certifications:
+FSC, ISO9001
+
+
+=============================
+
+
+Supplier_ID: SUP-064
+Supplier_Name: Ostwind Composites AG
+
+Region: EMEA
+Country: Austria
+
+Contract_Tier: Tier-1
+Risk_Level: High
+
+Compliance_Score_Avg: 89.82
+Sustainability_Score_Avg: 85.0
+
+Average_OTD: 93.65
+Average_Defect_Rate: 1.08
+
+PO_Count: 17
+Total_PO_Value_USD: 1402260.91
+
+Units_Ordered_Total: 120087
+Units_Delivered_Total: 114028
+Units_Rejected_Total: 1442
+
+Active_Disruptions:
+Currency volatility flag, Geopolitical tension flag, Regulatory audit pending, Regulatory enforcement pending, Tariff adjustment pending, Typhoon season disruption
+
+Certifications:
+ISO14001, ISO9001, REACH
+
+
+=============================
+
+
+Supplier_ID: SUP-065
+Supplier_Name: Wiener Alloy GmbH
+
+Region: EMEA
+Country: Austria
+
+Contract_Tier: Tier-2
+Risk_Level: Medium
+
+Compliance_Score_Avg: 80.76
+Sustainability_Score_Avg: 63.71
+
+Average_OTD: 86.18
+Average_Defect_Rate: 1.71
+
+PO_Count: 17
+Total_PO_Value_USD: 8141932.49
+
+Units_Ordered_Total: 342216
+Units_Delivered_Total: 294154
+Units_Rejected_Total: 5972
+
+Active_Disruptions:
+Export license risk, Geopolitical tension flag, Port congestion risk, Typhoon season disruption
+
+Certifications:
+ISO9001, NADCAP
+
+
+=============================
+
+
+Supplier_ID: SUP-066
+Supplier_Name: Valdoro Special Alloys
+
+Region: EMEA
+Country: Italy
+
+Contract_Tier: Tier-1
+Risk_Level: Low
+
+Compliance_Score_Avg: 88.53
+Sustainability_Score_Avg: 84.59
+
+Average_OTD: 94.48
+Average_Defect_Rate: 0.88
+
+PO_Count: 17
+Total_PO_Value_USD: 2790200.18
+
+Units_Ordered_Total: 123225
+Units_Delivered_Total: 115946
+Units_Rejected_Total: 1004
+
+Active_Disruptions:
+Audit overdue; compliance review, Port closure risk, Port congestion risk, Regulatory audit pending, Typhoon season disruption
+
+Certifications:
+ISO14001, ISO9001, NADCAP
+
+
+=============================
+
+
+Supplier_ID: SUP-067
+Supplier_Name: Braccio Metalli SpA
+
+Region: EMEA
+Country: Italy
+
+Contract_Tier: Tier-2
+Risk_Level: Medium
+
+Compliance_Score_Avg: 78.0
+Sustainability_Score_Avg: 68.41
+
+Average_OTD: 86.27
+Average_Defect_Rate: 1.79
+
+PO_Count: 17
+Total_PO_Value_USD: 9625790.67
+
+Units_Ordered_Total: 540266
+Units_Delivered_Total: 468615
+Units_Rejected_Total: 10110
+
+Active_Disruptions:
+Audit overdue; compliance review, Currency volatility flag, Geopolitical tension flag, Port congestion risk, Regulatory audit pending
+
+Certifications:
+ISO9001, NADCAP
+
+
+=============================
+
+
+Supplier_ID: SUP-068
+Supplier_Name: Milano Textil Srl
+
+Region: EMEA
+Country: Italy
+
+Contract_Tier: Tier-2
+Risk_Level: Medium
+
+Compliance_Score_Avg: 79.0
+Sustainability_Score_Avg: 68.18
+
+Average_OTD: 83.36
+Average_Defect_Rate: 1.79
+
+PO_Count: 17
+Total_PO_Value_USD: 1701983.81
+
+Units_Ordered_Total: 444970
+Units_Delivered_Total: 368341
+Units_Rejected_Total: 7847
+
+Active_Disruptions:
+Currency volatility flag, Export license risk, Geopolitical tension flag, Labour strike risk, Port closure risk, Port congestion risk, Seasonal flood risk, Tariff adjustment pending, Typhoon season disruption
+
+Certifications:
+ISO9001, OEKO-TEX
+
+
+=============================
+
+
+Supplier_ID: SUP-069
+Supplier_Name: Ibervex Quimica SL
+
+Region: EMEA
+Country: Spain
+
+Contract_Tier: Tier-2
+Risk_Level: Medium
+
+Compliance_Score_Avg: 78.88
+Sustainability_Score_Avg: 62.76
+
+Average_OTD: 87.61
+Average_Defect_Rate: 1.69
+
+PO_Count: 17
+Total_PO_Value_USD: 5194200.22
+
+Units_Ordered_Total: 402038
+Units_Delivered_Total: 359265
+Units_Rejected_Total: 6297
+
+Active_Disruptions:
+Audit overdue; compliance review, Geopolitical tension flag, Labour strike risk, Port congestion risk, Regulatory audit pending, Seasonal flood risk, Tariff adjustment pending
+
+Certifications:
+ISO9001, REACH
+
+
+=============================
+
+
+Supplier_ID: SUP-070
+Supplier_Name: Catalan Pack SA
+
+Region: EMEA
+Country: Spain
+
+Contract_Tier: Tier-2
+Risk_Level: Medium
+
+Compliance_Score_Avg: 77.88
+Sustainability_Score_Avg: 69.06
+
+Average_OTD: 86.92
+Average_Defect_Rate: 1.82
+
+PO_Count: 17
+Total_PO_Value_USD: 733839.09
+
+Units_Ordered_Total: 402747
+Units_Delivered_Total: 351290
+Units_Rejected_Total: 7044
+
+Active_Disruptions:
+Currency volatility flag, Geopolitical tension flag, Labour strike risk, Port closure risk, Port congestion risk, Regulatory audit pending, Regulatory enforcement pending
+
+Certifications:
+FSC, ISO9001
+
+
+=============================
+
+
+Supplier_ID: SUP-071
+Supplier_Name: Ferralux Gulf FZE
+
+Region: EMEA
+Country: UAE
+
+Contract_Tier: Tier-2
+Risk_Level: High
+
+Compliance_Score_Avg: 79.18
+Sustainability_Score_Avg: 67.88
+
+Average_OTD: 87.91
+Average_Defect_Rate: 1.84
+
+PO_Count: 17
+Total_PO_Value_USD: 9525326.57
+
+Units_Ordered_Total: 419478
+Units_Delivered_Total: 369886
+Units_Rejected_Total: 8396
+
+Active_Disruptions:
+Currency volatility flag, Labour strike risk, Port closure risk, Regulatory audit pending, Regulatory enforcement pending, Seasonal flood risk, Tariff adjustment pending
+
+Certifications:
+ISO14001, ISO9001
+
+
+=============================
+
+
+Supplier_ID: SUP-072
+Supplier_Name: Almaral Steel FZC
+
+Region: EMEA
+Country: UAE
+
+Contract_Tier: Tier-2
+Risk_Level: Medium
+
+Compliance_Score_Avg: 79.94
+Sustainability_Score_Avg: 65.35
+
+Average_OTD: 85.75
+Average_Defect_Rate: 1.74
+
+PO_Count: 17
+Total_PO_Value_USD: 9330113.92
+
+Units_Ordered_Total: 446079
+Units_Delivered_Total: 382650
+Units_Rejected_Total: 8560
+
+Active_Disruptions:
+Audit overdue; compliance review, Currency volatility flag, Geopolitical tension flag, Political instability flag, Port closure risk, Port congestion risk, Regulatory audit pending, Regulatory enforcement pending, Tariff adjustment pending
+
+Certifications:
+ISO9001
+
+
+=============================
+
+
+Supplier_ID: SUP-073
+Supplier_Name: Dubai Pack FZE
+
+Region: EMEA
+Country: UAE
+
+Contract_Tier: Tier-2
+Risk_Level: High
+
+Compliance_Score_Avg: 82.47
+Sustainability_Score_Avg: 68.94
+
+Average_OTD: 86.69
+Average_Defect_Rate: 1.84
+
+PO_Count: 17
+Total_PO_Value_USD: 1238050.32
+
+Units_Ordered_Total: 574572
+Units_Delivered_Total: 499530
+Units_Rejected_Total: 10499
+
+Active_Disruptions:
+Export license risk, Geopolitical tension flag, Political instability flag, Port closure risk, Port congestion risk, Regulatory audit pending, Regulatory enforcement pending, Tariff adjustment pending, Typhoon season disruption
+
+Certifications:
+FSC, ISO9001
+
+
+=============================
+
+
+Supplier_ID: SUP-074
+Supplier_Name: Novex Fab Polska
+
+Region: EMEA
+Country: Poland
+
+Contract_Tier: Tier-2
+Risk_Level: Low
+
+Compliance_Score_Avg: 75.94
+Sustainability_Score_Avg: 69.47
+
+Average_OTD: 88.39
+Average_Defect_Rate: 1.96
+
+PO_Count: 17
+Total_PO_Value_USD: 2004703.11
+
+Units_Ordered_Total: 457716
+Units_Delivered_Total: 409801
+Units_Rejected_Total: 8945
+
+Active_Disruptions:
+Currency volatility flag, Export license risk, Political instability flag, Port congestion risk, Typhoon season disruption
+
+Certifications:
+ISO9001
+
+
+=============================
+
+
+Supplier_ID: SUP-075
+Supplier_Name: Vistula Pack Sp
+
+Region: EMEA
+Country: Poland
+
+Contract_Tier: Tier-3
+Risk_Level: High
+
+Compliance_Score_Avg: 62.76
+Sustainability_Score_Avg: 47.53
+
+Average_OTD: 72.49
+Average_Defect_Rate: 3.2
+
+PO_Count: 17
+Total_PO_Value_USD: 1177759.34
+
+Units_Ordered_Total: 458480
+Units_Delivered_Total: 334994
+Units_Rejected_Total: 14138
+
+Active_Disruptions:
+Audit overdue; compliance review, Currency volatility flag, Export license risk, Geopolitical tension flag, Labour strike risk, Port closure risk, Regulatory audit pending, Regulatory enforcement pending, Seasonal flood risk, Tariff adjustment pending, Typhoon season disruption
+
+Certifications:
+FSC, ISO9001
+
+
+=============================
+
+
+Supplier_ID: SUP-076
+Supplier_Name: BalticPrint OU
+
+Region: EMEA
+Country: Estonia
+
+Contract_Tier: Tier-2
+Risk_Level: Low
+
+Compliance_Score_Avg: 78.76
+Sustainability_Score_Avg: 68.71
+
+Average_OTD: 85.82
+Average_Defect_Rate: 1.93
+
+PO_Count: 17
+Total_PO_Value_USD: 1192267.4
+
+Units_Ordered_Total: 505134
+Units_Delivered_Total: 435739
+Units_Rejected_Total: 9640
+
+Active_Disruptions:
+Export license risk, Geopolitical tension flag, Regulatory enforcement pending, Seasonal flood risk, Tariff adjustment pending, Typhoon season disruption
+
+Certifications:
+FSC, ISO9001
+
+
+=============================
+
+
+Supplier_ID: SUP-077
+Supplier_Name: Kovalev Metalburg
+
+Region: EMEA
+Country: Czechia
+
+Contract_Tier: Tier-2
+Risk_Level: Medium
+
+Compliance_Score_Avg: 80.71
+Sustainability_Score_Avg: 66.29
+
+Average_OTD: 85.41
+Average_Defect_Rate: 1.45
+
+PO_Count: 17
+Total_PO_Value_USD: 2307546.66
+
+Units_Ordered_Total: 438811
+Units_Delivered_Total: 378687
+Units_Rejected_Total: 7022
+
+Active_Disruptions:
+Export license risk, Geopolitical tension flag, Port congestion risk, Seasonal flood risk, Tariff adjustment pending
+
+Certifications:
+IATF16949, ISO9001
+
+
+=============================
+
+
+Supplier_ID: SUP-078
+Supplier_Name: Varna Electronics EAD
+
+Region: EMEA
+Country: Bulgaria
+
+Contract_Tier: Tier-3
+Risk_Level: Medium
+
+Compliance_Score_Avg: 64.12
+Sustainability_Score_Avg: 43.65
+
+Average_OTD: 74.42
+Average_Defect_Rate: 2.64
+
+PO_Count: 17
+Total_PO_Value_USD: 4647913.6
+
+Units_Ordered_Total: 587632
+Units_Delivered_Total: 445190
+Units_Rejected_Total: 16406
+
+Active_Disruptions:
+Labour strike risk, Political instability flag, Port closure risk, Port congestion risk, Regulatory audit pending, Regulatory enforcement pending, Tariff adjustment pending, Typhoon season disruption
+
+Certifications:
+ISO9001, RoHS
+
+
+=============================
+
+
+Supplier_ID: SUP-079
+Supplier_Name: Helios Pack Greece
+
+Region: EMEA
+Country: Greece
+
+Contract_Tier: Tier-3
+Risk_Level: High
+
+Compliance_Score_Avg: 62.41
+Sustainability_Score_Avg: 45.59
+
+Average_OTD: 75.86
+Average_Defect_Rate: 2.71
+
+PO_Count: 17
+Total_PO_Value_USD: 1287023.57
+
+Units_Ordered_Total: 640718
+Units_Delivered_Total: 485943
+Units_Rejected_Total: 16630
+
+Active_Disruptions:
+Audit overdue; compliance review, Currency volatility flag, Export license risk, Geopolitical tension flag, Labour strike risk, Port congestion risk, Regulatory audit pending, Regulatory enforcement pending, Typhoon season disruption
+
+Certifications:
+ISO9001
+
+
+=============================
+
+
+Supplier_ID: SUP-080
+Supplier_Name: Maghreb Castworks
+
+Region: EMEA
+Country: Morocco
+
+Contract_Tier: Tier-3
+Risk_Level: Medium
+
+Compliance_Score_Avg: 59.88
+Sustainability_Score_Avg: 45.47
+
+Average_OTD: 72.54
+Average_Defect_Rate: 2.85
+
+PO_Count: 17
+Total_PO_Value_USD: 3332740.62
+
+Units_Ordered_Total: 668776
+Units_Delivered_Total: 488484
+Units_Rejected_Total: 19135
+
+Active_Disruptions:
+Audit overdue; compliance review, Currency volatility flag, Export license risk, Geopolitical tension flag, Labour strike risk, Port closure risk, Regulatory enforcement pending, Tariff adjustment pending, Typhoon season disruption
+
+Certifications:
+ISO9001
+
+
+=============================
+
+
+Supplier_ID: SUP-081
+Supplier_Name: Lisbon Polymer Lda
+
+Region: EMEA
+Country: Portugal
+
+Contract_Tier: Tier-2
+Risk_Level: Medium
+
+Compliance_Score_Avg: 78.06
+Sustainability_Score_Avg: 65.53
+
+Average_OTD: 87.29
+Average_Defect_Rate: 2.06
+
+PO_Count: 17
+Total_PO_Value_USD: 6208222.51
+
+Units_Ordered_Total: 473388
+Units_Delivered_Total: 414786
+Units_Rejected_Total: 9964
+
+Active_Disruptions:
+Export license risk, Geopolitical tension flag, Political instability flag, Port congestion risk, Regulatory enforcement pending, Seasonal flood risk, Tariff adjustment pending
+
+Certifications:
+ISO9001, REACH
+
+
+=============================
+
+
+Supplier_ID: SUP-082
+Supplier_Name: Veltara Packing Solutions
+
+Region: LATAM
+Country: Brazil
+
+Contract_Tier: Tier-2
+Risk_Level: Low
+
+Compliance_Score_Avg: 79.94
+Sustainability_Score_Avg: 71.06
+
+Average_OTD: 85.25
+Average_Defect_Rate: 1.56
+
+PO_Count: 17
+Total_PO_Value_USD: 916686.63
+
+Units_Ordered_Total: 412852
+Units_Delivered_Total: 352913
+Units_Rejected_Total: 5866
+
+Active_Disruptions:
+Audit overdue; compliance review, Currency volatility flag, Geopolitical tension flag, Port closure risk, Port congestion risk, Regulatory audit pending, Regulatory enforcement pending, Tariff adjustment pending
+
+Certifications:
+FSC, ISO9001
+
+
+=============================
+
+
+Supplier_ID: SUP-083
+Supplier_Name: Sao Paulo Polymer
+
+Region: LATAM
+Country: Brazil
+
+Contract_Tier: Tier-2
+Risk_Level: Medium
+
+Compliance_Score_Avg: 82.59
+Sustainability_Score_Avg: 66.35
+
+Average_OTD: 86.93
+Average_Defect_Rate: 1.87
+
+PO_Count: 17
+Total_PO_Value_USD: 5124519.22
+
+Units_Ordered_Total: 451924
+Units_Delivered_Total: 390316
+Units_Rejected_Total: 9760
+
+Active_Disruptions:
+Audit overdue; compliance review, Geopolitical tension flag, Port closure risk, Regulatory enforcement pending, Seasonal flood risk, Tariff adjustment pending, Typhoon season disruption
+
+Certifications:
+ISO9001
+
+
+=============================
+
+
+Supplier_ID: SUP-084
+Supplier_Name: Recife Textiles SA
+
+Region: LATAM
+Country: Brazil
+
+Contract_Tier: Tier-2
+Risk_Level: High
+
+Compliance_Score_Avg: 77.18
+Sustainability_Score_Avg: 68.0
+
+Average_OTD: 86.84
+Average_Defect_Rate: 1.73
+
+PO_Count: 17
+Total_PO_Value_USD: 1086569.5
+
+Units_Ordered_Total: 374187
+Units_Delivered_Total: 321823
+Units_Rejected_Total: 6115
+
+Active_Disruptions:
+Geopolitical tension flag, Port closure risk, Port congestion risk, Regulatory audit pending, Regulatory enforcement pending, Seasonal flood risk, Typhoon season disruption
+
+Certifications:
+ISO9001, OEKO-TEX
+
+
+=============================
+
+
+Supplier_ID: SUP-085
+Supplier_Name: Minas Gerais Alloys
+
+Region: LATAM
+Country: Brazil
+
+Contract_Tier: Tier-2
+Risk_Level: Medium
+
+Compliance_Score_Avg: 80.35
+Sustainability_Score_Avg: 66.53
+
+Average_OTD: 84.69
+Average_Defect_Rate: 2.0
+
+PO_Count: 17
+Total_PO_Value_USD: 8225174.12
+
+Units_Ordered_Total: 402961
+Units_Delivered_Total: 342741
+Units_Rejected_Total: 8164
+
+Active_Disruptions:
+Currency volatility flag, Geopolitical tension flag, Labour strike risk, Port congestion risk, Regulatory audit pending, Seasonal flood risk, Typhoon season disruption
+
+Certifications:
+ISO9001
+
+
+=============================
+
+
+Supplier_ID: SUP-086
+Supplier_Name: Tecovar Industrial Textiles
+
+Region: LATAM
+Country: Mexico
+
+Contract_Tier: Tier-2
+Risk_Level: Medium
+
+Compliance_Score_Avg: 82.18
+Sustainability_Score_Avg: 63.94
+
+Average_OTD: 86.68
+Average_Defect_Rate: 1.92
+
+PO_Count: 17
+Total_PO_Value_USD: 1958107.99
+
+Units_Ordered_Total: 504362
+Units_Delivered_Total: 433986
+Units_Rejected_Total: 9572
+
+Active_Disruptions:
+Currency volatility flag, Export license risk, Geopolitical tension flag, Port congestion risk, Regulatory audit pending, Typhoon season disruption
+
+Certifications:
+ISO9001, OEKO-TEX
+
+
+=============================
+
+
+Supplier_ID: SUP-087
+Supplier_Name: Guadalajara Mold Co
+
+Region: LATAM
+Country: Mexico
+
+Contract_Tier: Tier-2
+Risk_Level: Low
+
+Compliance_Score_Avg: 81.65
+Sustainability_Score_Avg: 65.35
+
+Average_OTD: 84.83
+Average_Defect_Rate: 2.06
+
+PO_Count: 17
+Total_PO_Value_USD: 2136677.95
+
+Units_Ordered_Total: 395034
+Units_Delivered_Total: 334301
+Units_Rejected_Total: 8338
+
+Active_Disruptions:
+Geopolitical tension flag, Port congestion risk, Tariff adjustment pending, Typhoon season disruption
+
+Certifications:
+IATF16949, ISO9001
+
+
+=============================
+
+
+Supplier_ID: SUP-088
+Supplier_Name: Monterrey Pack SA
+
+Region: LATAM
+Country: Mexico
+
+Contract_Tier: Tier-2
+Risk_Level: Medium
+
+Compliance_Score_Avg: 77.06
+Sustainability_Score_Avg: 67.12
+
+Average_OTD: 86.99
+Average_Defect_Rate: 1.89
+
+PO_Count: 17
+Total_PO_Value_USD: 1022512.74
+
+Units_Ordered_Total: 553917
+Units_Delivered_Total: 480500
+Units_Rejected_Total: 10169
+
+Active_Disruptions:
+Port closure risk, Port congestion risk, Regulatory audit pending, Regulatory enforcement pending, Seasonal flood risk, Tariff adjustment pending, Typhoon season disruption
+
+Certifications:
+FSC, ISO9001
+
+
+=============================
+
+
+Supplier_ID: SUP-089
+Supplier_Name: Yucatan Polymer Mfg
+
+Region: LATAM
+Country: Mexico
+
+Contract_Tier: Tier-3
+Risk_Level: High
+
+Compliance_Score_Avg: 64.47
+Sustainability_Score_Avg: 49.18
+
+Average_OTD: 72.27
+Average_Defect_Rate: 3.08
+
+PO_Count: 17
+Total_PO_Value_USD: 8442197.7
+
+Units_Ordered_Total: 711229
+Units_Delivered_Total: 522368
+Units_Rejected_Total: 22379
+
+Active_Disruptions:
+Currency volatility flag, Geopolitical tension flag, Labour strike risk, Port closure risk, Seasonal flood risk, Tariff adjustment pending, Typhoon season disruption
+
+Certifications:
+ISO9001
+
+
+=============================
+
+
+Supplier_ID: SUP-090
+Supplier_Name: Plataforma Metales SA
+
+Region: LATAM
+Country: Argentina
+
+Contract_Tier: Tier-3
+Risk_Level: Medium
+
+Compliance_Score_Avg: 65.24
+Sustainability_Score_Avg: 49.12
+
+Average_OTD: 72.94
+Average_Defect_Rate: 3.43
+
+PO_Count: 17
+Total_PO_Value_USD: 8108557.46
+
+Units_Ordered_Total: 648452
+Units_Delivered_Total: 489736
+Units_Rejected_Total: 21928
+
+Active_Disruptions:
+Audit overdue; compliance review, Currency volatility flag, Export license risk, Geopolitical tension flag, Labour strike risk, Political instability flag, Port closure risk, Regulatory audit pending, Regulatory enforcement pending, Seasonal flood risk
+
+Certifications:
+ISO9001
+
+
+=============================
+
+
+Supplier_ID: SUP-091
+Supplier_Name: Patagonia Alloys SRL
+
+Region: LATAM
+Country: Argentina
+
+Contract_Tier: Tier-3
+Risk_Level: Low
+
+Compliance_Score_Avg: 64.06
+Sustainability_Score_Avg: 47.24
+
+Average_OTD: 72.12
+Average_Defect_Rate: 3.12
+
+PO_Count: 17
+Total_PO_Value_USD: 13980886.91
+
+Units_Ordered_Total: 667263
+Units_Delivered_Total: 478094
+Units_Rejected_Total: 19883
+
+Active_Disruptions:
+Audit overdue; compliance review, Currency volatility flag, Export license risk, Geopolitical tension flag, Labour strike risk, Political instability flag, Regulatory audit pending, Seasonal flood risk, Tariff adjustment pending
+
+Certifications:
+ISO9001
+
+
+=============================
+
+
+Supplier_ID: SUP-092
+Supplier_Name: Buenos Aires Pack
+
+Region: LATAM
+Country: Argentina
+
+Contract_Tier: Tier-3
+Risk_Level: Low
+
+Compliance_Score_Avg: 59.18
+Sustainability_Score_Avg: 49.59
+
+Average_OTD: 72.39
+Average_Defect_Rate: 2.52
+
+PO_Count: 17
+Total_PO_Value_USD: 1439440.11
+
+Units_Ordered_Total: 696859
+Units_Delivered_Total: 504004
+Units_Rejected_Total: 17435
+
+Active_Disruptions:
+Audit overdue; compliance review, Export license risk, Labour strike risk, Port closure risk, Port congestion risk, Regulatory audit pending, Regulatory enforcement pending, Seasonal flood risk, Typhoon season disruption
+
+Certifications:
+ISO9001
+
+
+=============================
+
+
+Supplier_ID: SUP-093
+Supplier_Name: Andino Fiber Corp
+
+Region: LATAM
+Country: Colombia
+
+Contract_Tier: Tier-2
+Risk_Level: Low
+
+Compliance_Score_Avg: 78.71
+Sustainability_Score_Avg: 62.41
+
+Average_OTD: 87.52
+Average_Defect_Rate: 1.94
+
+PO_Count: 17
+Total_PO_Value_USD: 1682976.65
+
+Units_Ordered_Total: 499089
+Units_Delivered_Total: 435672
+Units_Rejected_Total: 9835
+
+Active_Disruptions:
+Audit overdue; compliance review, Currency volatility flag, Export license risk, Political instability flag, Port congestion risk, Regulatory audit pending, Seasonal flood risk, Tariff adjustment pending
+
+Certifications:
+ISO9001, OEKO-TEX
+
+
+=============================
+
+
+Supplier_ID: SUP-094
+Supplier_Name: Bogota Pack Ltda
+
+Region: LATAM
+Country: Colombia
+
+Contract_Tier: Tier-3
+Risk_Level: High
+
+Compliance_Score_Avg: 61.59
+Sustainability_Score_Avg: 44.82
+
+Average_OTD: 70.99
+Average_Defect_Rate: 3.08
+
+PO_Count: 17
+Total_PO_Value_USD: 1121220.83
+
+Units_Ordered_Total: 577862
+Units_Delivered_Total: 411607
+Units_Rejected_Total: 17865
+
+Active_Disruptions:
+Audit overdue; compliance review, Geopolitical tension flag, Labour strike risk, Political instability flag, Port closure risk, Regulatory audit pending, Regulatory enforcement pending, Tariff adjustment pending, Typhoon season disruption
+
+Certifications:
+FSC, ISO9001
+
+
+=============================
+
+
+Supplier_ID: SUP-095
+Supplier_Name: Cerromax Mineria
+
+Region: LATAM
+Country: Peru
+
+Contract_Tier: Tier-3
+Risk_Level: High
+
+Compliance_Score_Avg: 65.35
+Sustainability_Score_Avg: 46.94
+
+Average_OTD: 72.38
+Average_Defect_Rate: 3.03
+
+PO_Count: 17
+Total_PO_Value_USD: 7195951.77
+
+Units_Ordered_Total: 636134
+Units_Delivered_Total: 453886
+Units_Rejected_Total: 20109
+
+Active_Disruptions:
+Audit overdue; compliance review, Political instability flag, Port closure risk, Port congestion risk, Regulatory audit pending, Regulatory enforcement pending, Seasonal flood risk, Tariff adjustment pending
+
+Certifications:
+ISO9001
+
+
+=============================
+
+
+Supplier_ID: SUP-096
+Supplier_Name: Lima Polymer SA
+
+Region: LATAM
+Country: Peru
+
+Contract_Tier: Tier-3
+Risk_Level: High
+
+Compliance_Score_Avg: 63.53
+Sustainability_Score_Avg: 48.41
+
+Average_OTD: 73.09
+Average_Defect_Rate: 2.53
+
+PO_Count: 17
+Total_PO_Value_USD: 8457944.13
+
+Units_Ordered_Total: 678697
+Units_Delivered_Total: 493116
+Units_Rejected_Total: 16200
+
+Active_Disruptions:
+Audit overdue; compliance review, Currency volatility flag, Export license risk, Geopolitical tension flag, Labour strike risk, Port closure risk, Regulatory audit pending, Regulatory enforcement pending, Typhoon season disruption
+
+Certifications:
+ISO9001
+
+
+=============================
+
+
+Supplier_ID: SUP-097
+Supplier_Name: Amapola Fibras
+
+Region: LATAM
+Country: Chile
+
+Contract_Tier: Tier-2
+Risk_Level: Medium
+
+Compliance_Score_Avg: 76.0
+Sustainability_Score_Avg: 65.88
+
+Average_OTD: 86.48
+Average_Defect_Rate: 1.89
+
+PO_Count: 17
+Total_PO_Value_USD: 1840660.56
+
+Units_Ordered_Total: 497792
+Units_Delivered_Total: 432284
+Units_Rejected_Total: 8360
+
+Active_Disruptions:
+Audit overdue; compliance review, Geopolitical tension flag, Labour strike risk, Political instability flag, Regulatory audit pending, Regulatory enforcement pending, Tariff adjustment pending
+
+Certifications:
+ISO9001, OEKO-TEX
+
+
+=============================
+
+
+Supplier_ID: SUP-098
+Supplier_Name: Cobre del Sur SA
+
+Region: LATAM
+Country: Chile
+
+Contract_Tier: Tier-2
+Risk_Level: Medium
+
+Compliance_Score_Avg: 80.24
+Sustainability_Score_Avg: 63.76
+
+Average_OTD: 88.46
+Average_Defect_Rate: 1.76
+
+PO_Count: 17
+Total_PO_Value_USD: 6733948.91
+
+Units_Ordered_Total: 305408
+Units_Delivered_Total: 268111
+Units_Rejected_Total: 5173
+
+Active_Disruptions:
+Audit overdue; compliance review, Geopolitical tension flag, Port closure risk, Port congestion risk, Regulatory audit pending, Seasonal flood risk, Tariff adjustment pending
+
+Certifications:
+ISO9001
+
+
+=============================
+
+
+Supplier_ID: SUP-099
+Supplier_Name: Santiago Pack Corp
+
+Region: LATAM
+Country: Chile
+
+Contract_Tier: Tier-2
+Risk_Level: Medium
+
+Compliance_Score_Avg: 80.35
+Sustainability_Score_Avg: 59.71
+
+Average_OTD: 85.99
+Average_Defect_Rate: 1.7
+
+PO_Count: 17
+Total_PO_Value_USD: 959031.33
+
+Units_Ordered_Total: 461666
+Units_Delivered_Total: 394952
+Units_Rejected_Total: 7992
+
+Active_Disruptions:
+Currency volatility flag, Export license risk, Geopolitical tension flag, Port congestion risk, Regulatory audit pending, Tariff adjustment pending
+
+Certifications:
+FSC, ISO9001
+
+
+=============================
+
+
+Supplier_ID: SUP-100
+Supplier_Name: Orinoco Pack SAPI
+
+Region: LATAM
+Country: Venezuela
+
+Contract_Tier: Tier-3
+Risk_Level: Low
+
+Compliance_Score_Avg: 62.59
+Sustainability_Score_Avg: 49.65
+
+Average_OTD: 72.35
+Average_Defect_Rate: 2.8
+
+PO_Count: 17
+Total_PO_Value_USD: 1345067.87
+
+Units_Ordered_Total: 655560
+Units_Delivered_Total: 477945
+Units_Rejected_Total: 18693
+
+Active_Disruptions:
+Audit overdue; compliance review, Currency volatility flag, Export license risk, Geopolitical tension flag, Labour strike risk, Political instability flag, Regulatory audit pending, Seasonal flood risk, Tariff adjustment pending, Typhoon season disruption
+
+Certifications:
+ISO9001
+
+
+=============================
+
+
+Supplier_ID: SUP-101
+Supplier_Name: Quetzal Textiles
+
+Region: LATAM
+Country: Guatemala
+
+Contract_Tier: Tier-3
+Risk_Level: Medium
+
+Compliance_Score_Avg: 61.76
+Sustainability_Score_Avg: 41.18
+
+Average_OTD: 75.19
+Average_Defect_Rate: 2.76
+
+PO_Count: 17
+Total_PO_Value_USD: 2193532.56
+
+Units_Ordered_Total: 589084
+Units_Delivered_Total: 446120
+Units_Rejected_Total: 15812
+
+Active_Disruptions:
+Audit overdue; compliance review, Currency volatility flag, Export license risk, Labour strike risk, Political instability flag, Port congestion risk, Regulatory enforcement pending, Seasonal flood risk, Typhoon season disruption
+
+Certifications:
+ISO9001
+
+
+=============================
+
+
+Supplier_ID: SUP-102
+Supplier_Name: Crestline Chemical Supply
+
+Region: nan
+Country: USA
+
+Contract_Tier: Tier-1
+Risk_Level: Low
+
+Compliance_Score_Avg: 91.53
+Sustainability_Score_Avg: 84.29
+
+Average_OTD: 93.68
+Average_Defect_Rate: 0.93
+
+PO_Count: 17
+Total_PO_Value_USD: 1578038.84
+
+Units_Ordered_Total: 146494
+Units_Delivered_Total: 136838
+Units_Rejected_Total: 1258
+
+Active_Disruptions:
+Audit overdue; compliance review, Geopolitical tension flag, Seasonal flood risk
+
+Certifications:
+ISO14001, ISO9001, OSHA
+
+
+=============================
+
+
+Supplier_ID: SUP-103
+Supplier_Name: Fenwick Alloy Solutions
+
+Region: nan
+Country: USA
+
+Contract_Tier: Tier-1
+Risk_Level: Low
+
+Compliance_Score_Avg: 88.59
+Sustainability_Score_Avg: 81.76
+
+Average_OTD: 93.97
+Average_Defect_Rate: 0.96
+
+PO_Count: 17
+Total_PO_Value_USD: 2944011.89
+
+Units_Ordered_Total: 134654
+Units_Delivered_Total: 125986
+Units_Rejected_Total: 1306
+
+Active_Disruptions:
+Labour strike risk, Port congestion risk, Regulatory audit pending, Tariff adjustment pending
+
+Certifications:
+AS9100, ISO9001, NADCAP
+
+
+=============================
+
+
+Supplier_ID: SUP-104
+Supplier_Name: Ridgecroft Textiles
+
+Region: nan
+Country: USA
+
+Contract_Tier: Tier-1
+Risk_Level: High
+
+Compliance_Score_Avg: 89.53
+Sustainability_Score_Avg: 79.47
+
+Average_OTD: 94.04
+Average_Defect_Rate: 0.84
+
+PO_Count: 17
+Total_PO_Value_USD: 487220.36
+
+Units_Ordered_Total: 139704
+Units_Delivered_Total: 131012
+Units_Rejected_Total: 1016
+
+Active_Disruptions:
+Port closure risk, Port congestion risk, Seasonal flood risk, Tariff adjustment pending
+
+Certifications:
+ISO9001, OEKO-TEX, OSHA
+
+
+=============================
+
+
+Supplier_ID: SUP-105
+Supplier_Name: Lakeshore Components
+
+Region: nan
+Country: USA
+
+Contract_Tier: Tier-1
+Risk_Level: Low
+
+Compliance_Score_Avg: 88.59
+Sustainability_Score_Avg: 81.06
+
+Average_OTD: 94.77
+Average_Defect_Rate: 0.81
+
+PO_Count: 17
+Total_PO_Value_USD: 576320.3
+
+Units_Ordered_Total: 116701
+Units_Delivered_Total: 110968
+Units_Rejected_Total: 907
+
+Active_Disruptions:
+Geopolitical tension flag, Port congestion risk, Regulatory audit pending, Seasonal flood risk, Typhoon season disruption
+
+Certifications:
+IATF16949, ISO9001, OSHA
+
+
+=============================
+
+
+Supplier_ID: SUP-106
+Supplier_Name: BlueMesa Polymers
+
+Region: nan
+Country: USA
+
+Contract_Tier: Tier-1
+Risk_Level: Low
+
+Compliance_Score_Avg: 88.88
+Sustainability_Score_Avg: 83.82
+
+Average_OTD: 93.82
+Average_Defect_Rate: 0.93
+
+PO_Count: 17
+Total_PO_Value_USD: 1758414.87
+
+Units_Ordered_Total: 134486
+Units_Delivered_Total: 127441
+Units_Rejected_Total: 1425
+
+Active_Disruptions:
+Geopolitical tension flag, Port closure risk, Seasonal flood risk
+
+Certifications:
+ISO14001, ISO9001, OSHA
+
+
+=============================
+
+
+Supplier_ID: SUP-107
+Supplier_Name: Cascade Pack Corp
+
+Region: nan
+Country: USA
+
+Contract_Tier: Tier-1
+Risk_Level: High
+
+Compliance_Score_Avg: 91.06
+Sustainability_Score_Avg: 84.82
+
+Average_OTD: 92.79
+Average_Defect_Rate: 0.9
+
+PO_Count: 17
+Total_PO_Value_USD: 224798.27
+
+Units_Ordered_Total: 106994
+Units_Delivered_Total: 98829
+Units_Rejected_Total: 1101
+
+Active_Disruptions:
+Currency volatility flag, Geopolitical tension flag, Port closure risk, Port congestion risk, Regulatory audit pending, Regulatory enforcement pending, Tariff adjustment pending
+
+Certifications:
+FSC, ISO14001, ISO9001
+
+
+=============================
+
+
+Supplier_ID: SUP-108
+Supplier_Name: Appalachian Alloys
+
+Region: nan
+Country: USA
+
+Contract_Tier: Tier-2
+Risk_Level: High
+
+Compliance_Score_Avg: 77.65
+Sustainability_Score_Avg: 69.41
+
+Average_OTD: 88.08
+Average_Defect_Rate: 1.82
+
+PO_Count: 17
+Total_PO_Value_USD: 10062321.79
+
+Units_Ordered_Total: 453710
+Units_Delivered_Total: 399428
+Units_Rejected_Total: 8015
+
+Active_Disruptions:
+Audit overdue; compliance review, Export license risk, Geopolitical tension flag, Regulatory audit pending, Regulatory enforcement pending, Seasonal flood risk
+
+Certifications:
+ISO9001, NADCAP
+
+
+=============================
+
+
+Supplier_ID: SUP-109
+Supplier_Name: Gulf Coast Mech
+
+Region: nan
+Country: USA
+
+Contract_Tier: Tier-2
+Risk_Level: Low
+
+Compliance_Score_Avg: 76.53
+Sustainability_Score_Avg: 65.41
+
+Average_OTD: 85.7
+Average_Defect_Rate: 1.92
+
+PO_Count: 17
+Total_PO_Value_USD: 2815562.74
+
+Units_Ordered_Total: 550969
+Units_Delivered_Total: 474683
+Units_Rejected_Total: 10645
+
+Active_Disruptions:
+Currency volatility flag, Export license risk, Political instability flag, Seasonal flood risk, Tariff adjustment pending, Typhoon season disruption
+
+Certifications:
+IATF16949, ISO9001
+
+
+=============================
+
+
+Supplier_ID: SUP-110
+Supplier_Name: Texarkana Fiber Inc
+
+Region: nan
+Country: USA
+
+Contract_Tier: Tier-2
+Risk_Level: High
+
+Compliance_Score_Avg: 78.29
+Sustainability_Score_Avg: 62.71
+
+Average_OTD: 85.45
+Average_Defect_Rate: 1.81
+
+PO_Count: 17
+Total_PO_Value_USD: 1523184.03
+
+Units_Ordered_Total: 435813
+Units_Delivered_Total: 372640
+Units_Rejected_Total: 7487
+
+Active_Disruptions:
+Currency volatility flag, Labour strike risk, Port congestion risk, Regulatory audit pending, Seasonal flood risk, Tariff adjustment pending
+
+Certifications:
+ISO9001, OEKO-TEX
+
+
+=============================
+
+
+Supplier_ID: SUP-111
+Supplier_Name: Ohio Valley Electronics
+
+Region: nan
+Country: USA
+
+Contract_Tier: Tier-2
+Risk_Level: Low
+
+Compliance_Score_Avg: 78.88
+Sustainability_Score_Avg: 71.41
+
+Average_OTD: 87.06
+Average_Defect_Rate: 1.86
+
+PO_Count: 17
+Total_PO_Value_USD: 2733841.93
+
+Units_Ordered_Total: 405973
+Units_Delivered_Total: 350052
+Units_Rejected_Total: 8597
+
+Active_Disruptions:
+Audit overdue; compliance review, Geopolitical tension flag, Regulatory audit pending, Seasonal flood risk
+
+Certifications:
+ISO9001, RoHS
+
+
+=============================
+
+
+Supplier_ID: SUP-112
+Supplier_Name: Maplewood Polymer Corp
+
+Region: nan
+Country: Canada
+
+Contract_Tier: Tier-1
+Risk_Level: Medium
+
+Compliance_Score_Avg: 87.65
+Sustainability_Score_Avg: 82.94
+
+Average_OTD: 92.32
+Average_Defect_Rate: 1.07
+
+PO_Count: 17
+Total_PO_Value_USD: 953228.38
+
+Units_Ordered_Total: 83102
+Units_Delivered_Total: 77488
+Units_Rejected_Total: 790
+
+Active_Disruptions:
+Geopolitical tension flag, Port congestion risk, Regulatory audit pending, Tariff adjustment pending
+
+Certifications:
+ISO14001, ISO9001, REACH
+
+
+=============================
+
+
+Supplier_ID: SUP-113
+Supplier_Name: Pinnacle Resin Co
+
+Region: nan
+Country: Canada
+
+Contract_Tier: Tier-2
+Risk_Level: Medium
+
+Compliance_Score_Avg: 82.71
+Sustainability_Score_Avg: 66.0
+
+Average_OTD: 83.96
+Average_Defect_Rate: 1.49
+
+PO_Count: 17
+Total_PO_Value_USD: 5909011.05
+
+Units_Ordered_Total: 491169
+Units_Delivered_Total: 411656
+Units_Rejected_Total: 7462
+
+Active_Disruptions:
+Currency volatility flag, Geopolitical tension flag, Port congestion risk, Seasonal flood risk, Typhoon season disruption
+
+Certifications:
+ISO9001, REACH
+
+
+=============================
+
+
+Supplier_ID: SUP-114
+Supplier_Name: Rockies Pack Inc
+
+Region: nan
+Country: Canada
+
+Contract_Tier: Tier-2
+Risk_Level: Low
+
+Compliance_Score_Avg: 77.82
+Sustainability_Score_Avg: 72.0
+
+Average_OTD: 86.14
+Average_Defect_Rate: 1.9
+
+PO_Count: 17
+Total_PO_Value_USD: 859435.88
+
+Units_Ordered_Total: 408457
+Units_Delivered_Total: 353631
+Units_Rejected_Total: 8683
+
+Active_Disruptions:
+Audit overdue; compliance review, Geopolitical tension flag, Port closure risk, Port congestion risk, Regulatory audit pending, Seasonal flood risk
+
+Certifications:
+FSC, ISO9001
+
+
+=============================
+
+
+Supplier_ID: SUP-115
+Supplier_Name: Caribou Alloy Works
+
+Region: nan
+Country: Canada
+
+Contract_Tier: Tier-2
+Risk_Level: Low
+
+Compliance_Score_Avg: 81.24
+Sustainability_Score_Avg: 65.59
+
+Average_OTD: 86.98
+Average_Defect_Rate: 1.7
+
+PO_Count: 17
+Total_PO_Value_USD: 11752037.57
+
+Units_Ordered_Total: 478108
+Units_Delivered_Total: 413617
+Units_Rejected_Total: 8728
+
+Active_Disruptions:
+Currency volatility flag, Geopolitical tension flag, Labour strike risk, Port congestion risk, Regulatory audit pending, Seasonal flood risk, Tariff adjustment pending
+
+Certifications:
+ISO9001, NADCAP
+
+
+=============================
+
+
+Supplier_ID: SUP-116
+Supplier_Name: Prairie Mech Corp
+
+Region: nan
+Country: Canada
+
+Contract_Tier: Tier-2
+Risk_Level: Medium
+
+Compliance_Score_Avg: 80.29
+Sustainability_Score_Avg: 69.47
+
+Average_OTD: 84.96
+Average_Defect_Rate: 1.66
+
+PO_Count: 17
+Total_PO_Value_USD: 2153364.88
+
+Units_Ordered_Total: 404017
+Units_Delivered_Total: 349738
+Units_Rejected_Total: 6946
+
+Active_Disruptions:
+Audit overdue; compliance review, Political instability flag, Port closure risk, Regulatory audit pending, Seasonal flood risk
+
+Certifications:
+IATF16949, ISO9001
