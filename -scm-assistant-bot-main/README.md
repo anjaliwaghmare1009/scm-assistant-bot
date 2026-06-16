@@ -139,7 +139,7 @@ The final configuration improved context preservation and produced more accurate
 * Improved Retrieval Accuracy
 * Scalable RAG Architecture
 * Efficient Document Chunking
-* Supplier Risk Analysis Support
+
 
 ---
 
